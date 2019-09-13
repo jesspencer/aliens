@@ -15,4 +15,4 @@ using the spacebar.
 * pip
 
 ## Issues
-If you see issues in the code. Or want to contribute in open an issue,""
+If you see issues in the code. Or want to contribute in open an [issue](https://github.com/jesspencer/aliens/issues)
